@@ -3,12 +3,8 @@
 # How to Use:
 This script is for webhooks, Follow these simple steps to get started:
 
-# Installation:
 
-Clone the repository to your local machine:
-bash
-Copy code
-git clone https://github.com/slybepo/Tracker.git
+ clone https://github.com/slybepo/Tracker.git
 
 # Configuration:
 
