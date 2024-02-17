@@ -1,7 +1,7 @@
 
-**tracker**
+**webhook integration**
 # How to Use:
-This script is designed to streamline your GitHub workflow, making it easier to manage repositories and collaborate with others. Follow these simple steps to get started:
+This script is for webhooks, Follow these simple steps to get started:
 
 # Installation:
 
@@ -12,21 +12,15 @@ git clone https://github.com/slybepo/Tracker.git
 
 # Configuration:
 
-Navigate to the cloned directory:
-bash
-Copy code
-cd your-repo
-Modify the configuration file (config.yaml) to include your GitHub credentials and any other settings required for your workflow.
-Running the Script:
+**copy the script and paste it inside playfab cloudscript** 
+**add a rule or edit a rule** 
+**name it**
+**give it an action** 
+**put executeCloudscript** 
+**put the function named "hello"**
 
-# Execute the script by running the main js file:
-JavaScript
-Copy code
-java index.js
-Interacting with the Script:
 
-Follow the prompts and instructions provided by the script to perform various GitHub actions, such as creating new repositories, adding collaborators, managing issues, and more.
-Feedback and Support:
+
 
 **If you encounter any issues or have suggestions for improvements, feel free to reach out to me on Discord at actuallymoussaa.
 Discord Support:
